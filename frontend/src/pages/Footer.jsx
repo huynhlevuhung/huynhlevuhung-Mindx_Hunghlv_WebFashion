@@ -28,15 +28,15 @@ const Footer = () => {
                   </li>
                 </Link>
                 <Link
-                  to={"https://www.linkedin.com/in/iamjabeed/"}
+                  to={"https://www.facebook.com/vuhung.boy/"}
                   target="_blank"
                 >
                   <li className="border-b-4 border-transparent hover:border-black w-fit">
-                    LinkedIn: vuhung.boy@gmail.com
+                    Facebook: vuhung.boy@gmail.com
                   </li>
                 </Link>
                 <Link
-                  to={"https://www.instagram.com/iamjabeed_04/"}
+                  to={"https://www.instagram.com/neshuynh_6/?fbclid=IwY2xjawMRTOdleHRuA2FlbQIxMABicmlkETFnRnZYRmNJeDI4eE96b3l5AR7RjQNNnQRwubX-Q7ISSMdbh-dDTiKo6AWVjKj-bZwDxsiKMu7USIMnCkdCkw_aem_zwTPL_B57sCVU28iro8zPg#"}
                   target="_blank"
                 >
                   <li className="hover:border-b-4 border-black w-fit">

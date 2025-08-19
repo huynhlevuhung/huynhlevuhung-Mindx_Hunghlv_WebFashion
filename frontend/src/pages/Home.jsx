@@ -33,7 +33,7 @@ const Home = () => {
             <div className="min-h-[100vh] h-full text-black mb-8">
               <div className="flex justify-between items-center mx-4 mb-10">
                 <h1 className="text-base lg:text-2xl font-[700] uppercase underline-offset-1">
-                  Special Products
+                  Sản Phẩm Đặc Biệt
                 </h1>
                 <button className="bg-[#0e1629] hover:bg-[#060911] transition-colors ease-in-out duration-500 text-white border-none outline-none w-[100px] md:w-[140px] px-4 py-2 rounded cursor-pointer my-[1rem] text-base font-semibold">
                   <Link to="/shop" className="">
@@ -43,15 +43,10 @@ const Home = () => {
               </div>
               <div className="mx-4">
                 <h1 className="text-[#FF4800] text-base md:text-lg lg:text-4xl font-bold mb-4">
-                  Explore Luxehaven's Curated Collection
+                  Khám phá Bộ sưu tập được tuyển chọn của Luxehaven
                 </h1>
                 <p className="text-[#222222] text-sm md:text-base font-medium">
-                  Dive into a world of elegance and choice with Luxehaven's
-                  carefully curated selection. Each product is a testament to
-                  quality and style, ensuring your shopping experience is
-                  nothing short of extraordinary. Discover the latest trends and
-                  timeless classics – Luxehaven, where every click unveils a new
-                  level of sophistication.
+                  Đắm chìm vào thế giới sang trọng và tinh tế với bộ sưu tập được tuyển chọn kỹ lưỡng của Luxehaven. Mỗi sản phẩm là minh chứng cho chất lượng và phong cách, đảm bảo trải nghiệm mua sắm của bạn sẽ vô cùng tuyệt vời. Khám phá những xu hướng mới nhất và những tác phẩm kinh điển vượt thời gian - Luxehaven, nơi mỗi cú nhấp chuột mở ra một đẳng cấp tinh tế mới.
                 </p>
               </div>
               <div>

@@ -87,7 +87,7 @@ const Shop = () => {
         <div className="flex md:flex-row container mx-auto">
           <div className="hidden lg:block p-3 mb-4 border border-[#444444] h-full fixed top-[80px] z-20 overflow-y-scroll lg:w-[260px] pb-28 text-[#FFFFFF]">
             <h2 className="text-center py-2 bg-[#2765EC] text-[#FFFFFF] hover:shadow-md hover:bg-[#1b56d5] mb-2 rounded-sm">
-              Filter by Categories
+              Lọc Theo Loại
             </h2>
 
             <div className="p-5 w-full">
@@ -112,7 +112,7 @@ const Shop = () => {
             </div>
 
             <h2 className="text-center py-2 bg-[#2765EC] text-[#FFFFFF] hover:shadow-md hover:bg-[#1b56d5] mb-2 rounded-sm">
-              Filter by Brands
+              Lọc Theo Thương Hiệu
             </h2>
 
             <div className="p-5 w-full">
@@ -139,7 +139,7 @@ const Shop = () => {
             </div>
 
             <h2 className="text-center py-2 bg-[#2765EC] text-[#FFFFFF] hover:shadow-md hover:bg-[#1b56d5] mb-2 rounded-sm">
-              Filer by Price
+              Lọc Theo Giá
             </h2>
 
             <div className="w-full my-2">
@@ -157,7 +157,7 @@ const Shop = () => {
                 className="w-full py-2 text-center bg-[#2765EC] text-[#FFFFFF] hover:shadow-md hover:bg-[#1b56d5] rounded-sm"
                 onClick={() => window.location.reload()}
               >
-                Reset
+                Làm Lại
               </button>
             </div>
           </div>

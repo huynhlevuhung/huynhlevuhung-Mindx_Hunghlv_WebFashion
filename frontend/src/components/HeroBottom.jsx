@@ -6,13 +6,13 @@ const HeroBottom = () => {
       <ContentWrapper>
         <div className="">
           <h4 className="font-canope text-left uppercase mt-0 mb-0 font-canopee text-[3rem] lg:text-[10rem] leading-[60px] lg:leading-[170px] font-bold">
-            ELEVATING
+            SANG TRỌNG
           </h4>
           <h4 className="font-canope text-left uppercase mt-0 mb-0 font-canopee text-[3rem] lg:text-[10rem] leading-[60px] lg:leading-[170px] font-bold">
-            EXPERIENCES &
+            ĐƠN GIẢN &
           </h4>
           <h4 className="font-canope text-left uppercase mt-0 mb-0 font-canopee text-[3rem] lg:text-[10rem] leading-[60px] lg:leading-[170px] font-bold">
-            CRAFTING REALITIE
+            THỰC TẾ
           </h4>
           {/* <h4 className="font-canope text-left uppercase mt-0 mb-0 font-canopee text-[3rem] lg:text-[10rem] leading-[60px] lg:leading-[170px] font-bold">
             REALITIE
@@ -23,3 +23,4 @@ const HeroBottom = () => {
   );
 };
 export default HeroBottom;
+  

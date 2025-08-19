@@ -41,7 +41,7 @@ const ProductCarousel = () => {
       ) : (
         <>
           <h1 className="text-base lg:text-2xl font-bold mb-8">
-            Featured Products
+            Sản Phẩm Hot
           </h1>
 
           <Slider
